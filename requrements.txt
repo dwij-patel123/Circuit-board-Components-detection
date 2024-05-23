@@ -1,0 +1,9 @@
+python==3.10.13
+wheel==0.40.0
+Cython==0.29.36
+pyyaml==5.1
+opencv-python
+torch==2.2
+torchvision==0.17.0
+matplotlib
+flask
